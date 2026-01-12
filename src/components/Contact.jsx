@@ -32,8 +32,8 @@ const Contact = () => {
 
     emailjs
       .send(
-        "service_9gvq101",
-        "template_49jw5yq",
+        "service_hrb1jks",
+        "template_fe3h7wg",
         {
           from_name: form.name,
 
